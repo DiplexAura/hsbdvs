@@ -1,0 +1,112 @@
+{
+
+    "mainGuildID": "1001033892876255342", 
+    "bot id": "1175800757568684113",
+
+  "member_id": "1193947582754459810",
+
+    "prefix":"!",
+
+    "registerGlobal": true,
+
+    "ownerID": ["1040560687128256562","492745882618429450","793869048056250398","1079374208993349714","918749482726850560"],  
+
+  "color": "#a765ff",
+  "title": " king s",
+  "foot": " king s",
+
+     "channels": 
+["1163871099159851068" , 
+"1163871100791431279" ,
+"1163871102221697094" ,
+"1164228853120643112" ,
+"1164224155441451089" ,
+"1164229352549011557" ,
+"1164228256392806534" ,
+"1164227428999241838" ,
+"1163871112170590299",
+"1156713810879586384"],
+
+"supportid":"1163871096123179118",
+"high": "1163871061679538227",
+
+"logbuy": "1183016727131459644", 
+  "log_rep" : "1183016727131459644",
+"buycategoryId" : "1193947091806986271", 
+
+"transfer": "1153271299288875008", 
+
+  "probotid": "282859044593598464",
+
+  "lineurl" : "https://cdn.discordapp.com/attachments/1159422779205099521/1159834034885632081/1696011337234.png?ex=6532769e&is=6520019e&hm=ddb106cf482a5eaef286cc1cbf6dc721b7635e2d396685fe17cbe4d9318013a8&",
+
+  "angelroleid": "1163871113521135626", 
+  "greatroleid": "1163871113999286424", 
+  "perfectroleid": "1163871115412766741",
+  "excellentroleid": "1163871116457156739", 
+  "goodroleid": "1163871119879716904", 
+  "designroleid": "1163871118592065586", 
+  "developerroleid": "1163871117472190546", 
+
+
+  "angelroleprice": "100000",
+  "greatroleprice": "75000", 
+  "perfectroleprice": "60000", 
+  "excellentroleprice": "45000", 
+  "goodroleprice": "40000", 
+  "designerroleprice" :"35000", 
+  "developerroleprice": "35000", 
+    "angelinfo": "100,000 Credit",
+  "greatinfo": "75,000 Credit", 
+  "perfectinfo": "60,000 Credit", 
+  "excellentinfo": "45,000 Credit", 
+  "goodinfo": "40,000 Credit", 
+  "designerinfo" :"35,000 Credit", 
+  "developerinfo": "35,000 Credit", 
+
+"viproleid": "1163871109641416725", 
+"asiaroleid": "1163871108597035008", 
+"legendroleid": "1163871107481358426",
+
+  "viproleprice": "100000", 
+  "asiaprice": "350000", 
+  "legendprice": "75000", 
+
+  "vipinfo": "100,000 Credit", 
+  "asiainfo": "350,000 Credit", 
+  "legendinfo": "75,000 Credit", 
+
+"parent": "1163871029089796307", 
+  "privaterole": "1178820506519089152",
+
+  "roombuy": "70000", 
+  "roomrenewal":"35000", 
+
+  "roombuyinfo": "70,000 Credit", 
+  "roomrenewalinfo":"35,000 Credit", 
+
+
+  "shareroom": "1163871086774059059",
+  "everyonepricesh": "40000", 
+  "hereshareprice": "20000",
+
+  "everyoneinfo": "40,000 Credit", 
+  "hereinfo": "20,000 Credit",
+
+  "adsroom" : "1179059136110006302",
+  "giftroom": "1179059136110006302",
+  "parentad" : "1183016367662829578",
+
+"nomads": "4",
+"hereads" : "6",
+"everyoneads" : "1",
+"giftad" : "2",
+"roomad": "3",
+"roomadg": "5",
+"nomadsinfo": "4",
+"hereadsinfo" : "6",
+"everyoneadsinfo" : "10",
+"giftadinfo" : "20",
+"roomadinfo": "3",
+"roomadginfo": "5"
+}

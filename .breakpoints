@@ -1,0 +1,28 @@
+{
+  "files": {
+    "data/discount.js": [
+      {
+        "id": "04867b25-12cc-441e-8fbd-1974871bf63d",
+        "line": 3,
+        "version": 1,
+        "index": 76
+      }
+    ],
+    "main.js": [
+      {
+        "id": "92c271e9-b1a3-4106-8719-d8aed3bd6f07",
+        "line": 2731,
+        "version": 3,
+        "index": 104687
+      }
+    ],
+    "source/events/discounthelp.js": [
+      {
+        "id": "4bf9b4fe-315e-441f-8b63-a79e93dbf5c0",
+        "line": 2,
+        "version": 1,
+        "index": 41
+      }
+    ]
+  }
+}
